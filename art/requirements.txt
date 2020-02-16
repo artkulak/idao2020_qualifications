@@ -1,3 +1,5 @@
 numpy
 astropy
 jplephem
+Sphinx
+numpydoc
