@@ -8,7 +8,7 @@
 	- https://github.com/JustM57
 	- https://github.com/blacKitten13
 
-* How to get data
+* How to get the data
    - input data folder from https://disk.yandex.ru/d/0zYx00gSraxZ3w
 
 <hr>
@@ -16,10 +16,16 @@
 ## Instructions
 1. Place input files into "input/" folder.
 2. If necessary, install packages in `requirements.txt`.
-3. Run FinalSolution.ipynb to generate predictions for the test set (Our solution was developed for track A only)
+3. Run art/FinalSolution.ipynb to generate predictions for the test set (Our solution was developed for track A only)
     - It takes 5-6 hours to predict for 300 satellites.
 
 <hr>
+
+## Task description
+IDAO participants are asked to clarify the prediction of a Simpliﬁed General Perturbations-4 (SGP4) model. 
+SGP4 is able to predict a lot of effects but is applied to near-Earth objects with an orbital period of fewer than 225 minutes, while high orbit space objects have orbital periods up to 200 hours. 
+For the true position of the satellites, the position obtained using a more accurate simulator will be taken. 
+Subsequently, the obtained models will be applied to real classiﬁed data and will help to predict the positions of these space objects.
 
 ## Model description
 *Plyades library forever* <br>
