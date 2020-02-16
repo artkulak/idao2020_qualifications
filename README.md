@@ -3,7 +3,6 @@
 
 **Solution passed top 30 (Final LB score - 93.72) and got us to the IDAO 2020 finals**
 
-```
 
 * KUDOS to my teammates:
 	- https://github.com/JustM57
