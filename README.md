@@ -14,10 +14,11 @@
 <hr>
 
 ## Instructions
-1. Place input files into "input/" folder.
-2. If necessary, install packages in `requirements.txt`.
+1. Create "input" folder in the main directory and place input files into the folder.
+2. If necessary, install packages in `art/requirements.txt`.
 3. Run art/FinalSolution.ipynb to generate predictions for the test set (Our solution was developed for track A only)
     - It takes 5-6 hours to predict for 300 satellites.
+4. You could check our other notebooks as well, these were our ideas that did not succeed.
 
 <hr>
 
