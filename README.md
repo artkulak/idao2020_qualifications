@@ -8,7 +8,7 @@
 	- https://github.com/JustM57
 	- https://github.com/blacKitten13
 
-* common
+* How to get data
    - input data folder from https://disk.yandex.ru/d/0zYx00gSraxZ3w
 
 <hr>
@@ -22,6 +22,6 @@
 <hr>
 
 ## Model description
-*Plyades library forever*
+*Plyades library forever* <br>
 The solution is based on pure phisics and is using Plyades library as the main component. We take the last point of the training set of each satellite (w.r.t time) and  run the simulation using Plyades library, 
 which takes into account the Earth gravity. While simulating we generate data until the last point of the test set and then for each time point in the test set we take the closest point of the simulated data by time.
