@@ -1,7 +1,7 @@
 # IDAO 2020 Online Stage
 **Team: CHAD DATA SCIENTISTS**
 
-**Solution passed top 30 (Final LB score - 93.72)**
+**Solution passed top 30 (Final LB score - 93.72) and got us to IDAO 2020 Finals**
 
 
 * KUDOS to my teammates:
